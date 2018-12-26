@@ -1,0 +1,58 @@
+---
+layout:     post
+title:      博客主题的修改
+subtitle:    "\"为了更加美观\""
+date:       2018-12-26
+author:     YBL
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - 生活
+---
+## 前言
+[跳过废话,看我到底觉得缺少了什么]（#build）
+主题我直接 Downlosd 了 [Hux的博客主题](https://huangxuan.me/) 的进行修改，简单粗暴，不过遇到了很多坑😂，好在都填完了。。。
+
+本地调试环境需要 `gem install jekyll`，结果 rubygem 的源居然被墙了，~~后来手动改成了我大淘宝的镜像源才成功~~，淘宝的源已经[停止维护](https://gems.ruby-china.org/)，换成了OSChina的源 `https://gems.ruby-china.org/`。
+
+一波三折后，终于搭建了自己的博客，终于觉得这样算然是有一个像样的博客了，但是我这个人比较追求完美，总觉得还缺少了点什么，那就一不做二不休，一逼装到底
+
+先后百度了各种jeklly的模板，想从其中的代码中"复用"一些花里胡哨的东西，没错，我就是想要一些花里胡哨的东西，但同时还不能显得冗余，莎士比亚说过，简洁才是智慧的灵魂嘛。
+
+<p id = "build"></p>
+## 正文
+## 修改log
+
+改自Hux的博客
+To do :
+- [ ] 添加打开一个页面的渐入效果
+- [ ] 鼠标移动到home有动画效果
+- [ ] 文章页面侧边导航栏
+- [ ] 为每篇博客添加图片
+- [ ] 页面布局小修改
+- [ ] 添加emoji表情功能,可以直接在文章中输入.
+      关于emoji使用方法和表情大全看[这里](http://www.emoji-cheat-sheet.com)
+- [ ] 增加RSS订阅功能
+- [ ] 增加页面
+- [ ] add back to top.
+
+
+
+
+
+
+
+
+
+
+
+
+## 后记
+
+最后，感谢 Hux 提供的的 [Blog 主题](https://github.com/Huxpro/huxpro.github.io)
+
+如果你恰好逛到了这里，希望你也能喜欢这个博客主题，感兴趣的话可以自己动手搭建一个。
+
+
+
+
